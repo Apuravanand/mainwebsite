@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(52, 25, 201);
+    font-size: 4.2rem;
+}
+
+h2 {
+    color: rgb(43, 30, 5);
+    font-size: 2.5rem;
+    
+}
+
+h3 {
+    color: rgb(112, 150, 206);
+    
+}
+
+hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: blue;
+    border-width: 5px;
+    width: 5%;
+}
+
+
+.top-container {
+    background-color: skyblue;
+    position: relative;
+    padding-top: 100px;
+    height: 613px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 300px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+}
+
+.mountain {
+    position: relative;
+    top: 9px;
+}
+
+.middle-container {
+    position: relative;
+    top: 50px;
+}
+
+.bottom-container {
+    position: relative;
+    top: 100px;
+    background-color: gray;
+    height: 150px;
+    
+}
+.btn {
+    background-color: #1316cf;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    position: relative;
+    top: 15px;
+    
+}
+
+.footer-link1 {
+    position: relative;
+    right: 50px;
+    top: 50px; 
+    color: rgb(23, 42, 216);
+}
+
+.footer-link2 {
+    color: rgb(23, 42, 216);
+    position: relative;
+    top: 50px;
+}
+
+.footer-link3 {
+    position: relative;
+    left: 50px;
+    top: 50px;
+    color: rgb(23, 42, 216);
+
+}
+
+.footer-link4 {
+    position: relative;
+    top: 90px;
+}
+
+.coding-png {
+    width: 200px;
+    float: left;
+    margin-right: 30px;
+}
+
+.chilli-png {
+    width: 180px;
+    float: right;
+    
+}
+
+.profile-png {
+    width: 200px;    
+}
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+
